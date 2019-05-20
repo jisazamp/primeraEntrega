@@ -1,0 +1,3 @@
+El nombre del estudiante es Juan
+ con cédula 123445 se ha matriculado en el curso 
+Inglés I con una duración de 60 horas y un valor de 150000

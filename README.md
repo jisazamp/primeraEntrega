@@ -1,0 +1,1 @@
+#El uso del programa es node principal o node principal insc -i=idCurso -n=nombreEstudiante -c=cedulaEstudiante
